@@ -1,4 +1,4 @@
-"# GUI_nucleo_project" 
+# GUI_nucleo_project
 
 L'application qui fait la reception des donnees de temperatures, humidites et du gyroscopes en temps reels et les affiches sur une courbes en temps reels
 
